@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+asyncpg
+pytest
+requests
+gunicorn
+pytest-cov
+flake8
+black
